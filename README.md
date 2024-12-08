@@ -34,8 +34,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/notesstore.git
-   cd notesstore
+   git clone https://github.com/Mohit138928/Notes-Store.git
+   cd Notes-Store
 
 2. **Install Dependencies of Backend**:
     - Backend
@@ -56,10 +56,10 @@ There is a .env file in the backend folder with the following:
 
 5. **Run the application**:
     - Backend:
-    ```
+    ```bash
     cd backend
     npm start
-
+-
     - Frontend:
     ```
     cd frontend
