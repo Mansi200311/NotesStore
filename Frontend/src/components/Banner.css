@@ -1,0 +1,16 @@
+.lyrics {
+    overflow: hidden;
+    position: relative;
+}
+
+.lyrics::after {
+    content: '';
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 1.5rem;
+    width: 75%;
+
+    background: linear-gradient(to right, transparent, #ffffff);
+}
